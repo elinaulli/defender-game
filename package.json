@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elinaulli/defender-game.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "elina_ulli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elinaulli/defender-game/issues"
+  },
+  "homepage": "https://github.com/elinaulli/defender-game#readme"
+}
